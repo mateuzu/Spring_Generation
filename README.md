@@ -104,7 +104,6 @@ A camada de Serviço (Service) destina-se a implementar as lógicas de negócios
 
 3. Repository/DAO
 DAO significa Data Access Object (Objeto de acesso aos dados) e o principal objetivo da camada Repository é acessar (consultar) dados de forma eficiente no Banco de dados e fornecer serviços para a camada de serviço.
-
 Existem interfaces no Spring Boot, que nos fornecem todas as operações do CRUD (CREATE, RETRIEVE, UPDATE, DELETE). Assim, a camada Repositório pode implementar qualquer um deles. A Camada Repository é como se fosse uma "Loja de Consultas", que oferece diversos tipos de consultas para a sua aplicação interagir com o Banco de dados.
 
 4. Model
