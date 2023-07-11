@@ -2,7 +2,7 @@
 Conceitos de API Rest utilizando Spring desenvolvido no Bloco 2 do Bootcamp Generation 
 
 Segue o tutorial sobre como
-[criar uma API através do Spring](teste)
+[criar uma API através do Spring](https://github.com/mateuzu/ProjetoLojaGames_Generation/tree/main)
 
 # Introdução ao Spring
 
@@ -113,5 +113,5 @@ A camada Model (Modelo) representa os objetos do mundo real. Assim, esses objeto
 
 ## Entendendo como criar API através do Spring
 
-[Criando API](teste)
+[Criando API](https://github.com/mateuzu/ProjetoLojaGames_Generation/tree/main)
 
